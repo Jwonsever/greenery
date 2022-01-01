@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-    <key>Label</key>
-    <string>com.example.greenery</string>
-    <key>Username</key>
-    <string>jwonsever</string>
-    <key>ProgramArguments</key>
-    <array>
-        <string>/Users/jwonsever/dev_personal/greenery/committed.sh</string>
-    </array>
-    <key>StartCalendarInterval</key>
     <dict>
-        <key>second</key>
-        <integer>1</integer>
+        <key>StandardErrorPath</key>
+        <string>/Users/jwonsever/dev_personal/greenery/log.err</string>
+        <key>StandardOutPath</key>
+        <string>/Users/jwonsever/dev_personal/greenery/log.out</string>
+        <key>Label</key>
+        <string>com.example.greenery</string>
+        <key>Username</key>
+        <string>jwonsever</string>
+        <key>ProgramArguments</key>
+        <array>
+            <string>/Users/jwonsever/dev_personal/greenery/committed.sh</string>
+        </array>
+        <key>StartCalendarInterval</key>
+        <dict>
+            <key>second</key>
+            <integer>1</integer>
+        </dict>
     </dict>
-</dict>
 </plist>
