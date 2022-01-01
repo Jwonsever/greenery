@@ -3,17 +3,15 @@
 <plist version="1.0">
 <dict>
     <key>Label</key>
-    <string>com.example.touchsomefile</string>
+    <string>com.example.greenery</string>
     <key>ProgramArguments</key>
     <array>
         <string>/Users/jwonsever/dev_personal/greenery/commited.sh</string>
     </array>
     <key>StartCalendarInterval</key>
     <dict>
-        <key>Minute</key>
-        <integer>44</integer>
-        <key>Hour</key>
-        <integer>16</integer>
+        <key>second</key>
+        <integer>1</integer>
     </dict>
 </dict>
 </plist>

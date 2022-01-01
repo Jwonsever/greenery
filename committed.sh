@@ -1,5 +1,5 @@
 #!/bin/bash
-NUMBER=$(($RANDOM % 9))
+NUMBER=$(($RANDOM % 7))
 
 for ((run=1; run <= NUMBER + 1; run++))
 do
