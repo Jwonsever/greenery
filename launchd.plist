@@ -4,9 +4,11 @@
 <dict>
     <key>Label</key>
     <string>com.example.greenery</string>
+    <key>Username</key>
+    <string>jwonsever</string>
     <key>ProgramArguments</key>
     <array>
-        <string>/Users/jwonsever/dev_personal/greenery/commited.sh</string>
+        <string>/Users/jwonsever/dev_personal/greenery/committed.sh</string>
     </array>
     <key>StartCalendarInterval</key>
     <dict>
