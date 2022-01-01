@@ -18,6 +18,10 @@
         <dict>
             <key>second</key>
             <integer>1</integer>
+            <!-- <key>minute</key>
+            <integer>1</integer>
+            <key>hour</key>
+            <integer>12</integer> -->
         </dict>
     </dict>
 </plist>
