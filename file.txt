@@ -1,1 +1,1 @@
-God instructs the heart, not by ideas, but by pains and contradictions. -- De Caussade
+Recursion is the root of computation since it trades description for time.
